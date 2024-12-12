@@ -1,0 +1,61 @@
+.course{
+    /* background-image: url(../images/img-school-1-min.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 2;
+    
+}
+.course::after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(21, 20, 51, 0.8);
+    z-index: -1;
+}
+.card-effect {
+    box-shadow: 0 8px 22px rgba(243, 239, 239, 0.1);
+    background: transparent;
+    color: #fff;
+    padding: 20px;
+    transition: all 0.35s ease;
+} 
+.card-effect:hover {
+    box-shadow: none;
+    transform: translateY(5px);
+}
+.course img {
+    height: 120px;
+    width: 300px;
+}
+.container1 {
+    padding: 20px 20px 20px 20px;
+    
+}
+@media only screen and (max-width: 1000px) {
+    .card-effect {
+        margin-bottom: 20px; 
+    }
+}
+
+@media only screen and (max-width: 730px) {
+    .card-effect img {
+        height: 120px;
+        width: 250px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .card-effect img {
+        height: 120px;
+        width: 250px;
+    }
+}
+
+
+
+

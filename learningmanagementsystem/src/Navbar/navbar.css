@@ -1,0 +1,54 @@
+/* navbar.css */
+.navbar {
+    box-shadow: 2px 2px 3px #888888;
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    text-decoration: none;
+} 
+
+.navbar-brand1, .navbar-brand:hover {
+    font-size: 32px;
+    font-weight: 700;
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-brand1 span {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand1 .icon1 {
+    width: 48px;
+    height: 46px;
+    color: black;
+}
+
+.navbar .navbar-nav  {
+    display: flex;
+    text-decoration: none;
+    margin-right: 40px;
+    list-style-type: none;
+    color: black;
+}
+
+.navbar .a {
+    width: 50%;
+}
+
+.navbar .Nav-item{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.navbar-nav  .dropdown {
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+

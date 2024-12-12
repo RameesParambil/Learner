@@ -1,0 +1,121 @@
+/* Bookingdetails.css */
+
+.bookingdetails {
+  background-color: #f8f9fa;
+  padding: 20px;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  z-index: 2;
+  height: 100%; /* Changed to auto for flexibility */
+  max-width: 1200px;
+  margin: 0 auto; /* Center the container */
+}
+
+.container3 {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 1200; 
+  overflow-x: auto;
+}
+
+.bookingdetails .table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 1200px; 
+
+}
+
+.bookingdetails .table thead {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.bookingdetails .table th,
+.table td {
+  padding: 12px 15px;
+  border: 1px solid #dee2e6;
+  text-align: center;
+  width: 270px;
+}
+
+.bookingdetails table .enquiry1 {
+  display: flex;
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  width: 270px;
+}
+
+.bookingdetails table .action {
+  display: flex;
+  justify-content: center; 
+}
+
+.bookingdetails .action button {
+  margin-left: 5px;
+}
+
+.bookingdetails .table-hover tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.bookingdetails .btn-sm {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+
+.bookingdetails h2 {
+  color: #343a40;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center; 
+}
+
+@media (max-width: 768px) {
+  .container3 {
+    padding: 15px; /* Smaller padding on mobile */
+  }
+
+  .bookingdetails .table th,
+  .table td {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .bookingdetails h2 {
+    font-size: 1.5rem; 
+  }
+}
+
+@media (max-width: 500px) {
+  .bookingdetails .table {
+    width: 100%; 
+  }
+
+  .bookingdetails .table th,
+  .table td {
+    font-size: 12px; 
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

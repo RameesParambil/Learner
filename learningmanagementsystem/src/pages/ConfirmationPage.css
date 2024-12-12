@@ -1,0 +1,18 @@
+
+.confirmation-page {
+    background: #e9ecef;
+    padding: 2rem;
+}
+
+.confirmation-page .display-4 {
+    margin-bottom: 1rem;
+    color: #28a745; 
+}
+
+.confirmation-page .lead {
+    margin-bottom: 1.5rem;
+}
+
+.confirmation-page .btn {
+    margin-top: 1rem;
+}

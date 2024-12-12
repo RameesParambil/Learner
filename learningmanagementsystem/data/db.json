@@ -1,0 +1,241 @@
+{
+  "users": [
+    {
+      "id": "0d11",
+      "name": "Ramees",
+      "email": "ramees@gmail.com",
+      "password": "ramees123",
+      "checkbox": "on"
+    },
+    {
+      "id": "e9fa",
+      "name": "Mike",
+      "email": "mike@gmail.com",
+      "password": "mike123",
+      "checkbox": "on"
+    },
+    {
+      "id": "b135",
+      "name": "Frijo",
+      "email": "frijo@gmail.com",
+      "password": "frijo123",
+      "checkbox": "on"
+    },
+    {
+      "id": "bd09",
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "password": "peter123",
+      "checkbox": "on"
+    },
+    {
+      "id": "b34d",
+      "name": "Teresa",
+      "email": "teresa@gmail.com",
+      "password": "teresa123",
+      "checkbox": "on"
+    }
+  ],
+  "images": [
+    {
+      "id": "1",
+      "image": "/images/webdesign.jpg",
+      "price": "$169",
+      "course": "WEB DESIGN",
+      "description": "Learn how to create stunning web designs using modern tools and techniques.",
+      "details": "This course covers HTML, CSS, and JavaScript fundamentals, along with modern responsive design principles. You will learn how to build visually appealing websites that work seamlessly across devices. Key topics include grid layouts, Flexbox, and best practices for user experience (UX) and user interface (UI) design. By the end of the course, you will have the skills to create your own projects and enhance your portfolio, enabling you to effectively showcase your design capabilities in the job market."
+    },
+    {
+      "id": "2",
+      "image": "/images/devopsengineering.jpg",
+      "price": "$339",
+      "course": "DEVOPS ENGINEERING",
+      "description": "Master DevOps tools and practices for efficient software development.",
+      "details": "This course focuses on the principles and practices of DevOps, providing an understanding of how to integrate development and operations. You will learn about continuous integration and delivery (CI/CD), containerization with Docker, and orchestration with Kubernetes. By the end of the course, you will be equipped with the skills to automate processes and improve collaboration across teams, ultimately leading to faster and more reliable software delivery."
+    },
+    {
+      "id": "3",
+      "image": "/images/webdevelopment.jpg",
+      "price": "$349",
+      "course": "WEB DEVELOPMENT",
+      "description": "Develop modern and responsive websites using HTML, CSS, JavaScript, and popular frameworks.",
+      "details": "This comprehensive course covers front-end and back-end web development, teaching you how to create full-stack applications. You will learn about HTML, CSS, JavaScript, and frameworks like React, as well as server-side technologies such as Node.js and databases like MongoDB. By the end of the course, you will be able to develop complete web applications from scratch, showcasing your skills in a professional portfolio."
+    },
+    {
+      "id": "4",
+      "image": "/images/datascience.jpg",
+      "price": "$99",
+      "course": "DATA SCIENCE",
+      "description": "Explore data analysis, visualization, and machine learning techniques for informed decision making.",
+      "details": "In this course, you will explore the field of data science, learning how to analyze and interpret complex datasets. Key topics include data visualization, statistical modeling, and machine learning algorithms. You will gain hands-on experience with tools like Python, Pandas, and Matplotlib, enabling you to derive actionable insights and make data-driven decisions by the end of the course."
+    },
+    {
+      "id": "5",
+      "image": "/images/machinelearning.jpg",
+      "price": "$499",
+      "course": "MACHINE LEARNING",
+      "description": "Master algorithms and data-driven models to enable intelligent systems and AI applications.",
+      "details": "This course introduces the fundamental concepts of machine learning, covering supervised and unsupervised learning techniques. You will learn how to build, train, and evaluate models using popular libraries such as Scikit-Learn and TensorFlow. By the end of the course, you will have the skills to implement machine learning solutions to solve real-world problems and leverage AI technology in your projects."
+    },
+    {
+      "id": "6",
+      "image": "/images/appdevelopment.jpg",
+      "price": "$449",
+      "course": "APP DEVELOPMENT",
+      "description": "Learn to build and deploy mobile applications for Android and iOS platforms.",
+      "details": "This course teaches you the essentials of app development, focusing on both Android and iOS platforms. You will learn how to design, build, and publish mobile applications using tools like React Native and Flutter. By the end of the course, you will be able to create user-friendly apps that can reach a wide audience on mobile devices."
+    },
+    {
+      "id": "7",
+      "image": "/images/digitalmarketing.jpg",
+      "price": "$239",
+      "course": "DIGITAL MARKETING",
+      "description": "Boost your marketing strategies with SEO, social media marketing, and Google Ad campaigns.",
+      "details": "In this course, you will explore various digital marketing strategies, including search engine optimization (SEO), social media marketing, content marketing, and email campaigns. You will learn how to create effective marketing plans that drive traffic and increase conversions. By the end of the course, you will be equipped with the knowledge to promote your brand effectively in the digital landscape."
+    },
+    {
+      "id": "8",
+      "image": "/images/ethicalhacking.jpg",
+      "price": "$339",
+      "course": "ETHICAL HACKING",
+      "description": "Become a cybersecurity expert by learning ethical hacking techniques to protect systems.",
+      "details": "This course covers the principles of ethical hacking, teaching you how to identify and exploit vulnerabilities in systems. You will learn about penetration testing, network security, and the legal aspects of ethical hacking. By the end of the course, you will have the skills to conduct security assessments and protect systems from malicious attacks."
+    },
+    {
+      "id": "9",
+      "image": "/images/promptengineering.jpg",
+      "price": "$589",
+      "course": "PROMPT ENGINEERING",
+      "description": "Master AI prompt engineering to design and interact with advanced artificial intelligence models.",
+      "details": "In this course, you will explore the art of prompt engineering, focusing on how to effectively communicate with AI models to achieve desired outcomes. You will learn techniques to design prompts that optimize model performance and understand their responses. By the end of the course, you will have the skills to integrate AI prompts into various applications, enhancing user experience and functionality. "
+    }
+  ],
+  "booking": [
+    {
+      "id": "67cd",
+      "name": "Ramees.p",
+      "email": "ramees@gmail.com",
+      "phone": "7898456523",
+      "course": "DEVOPS ENGINEERING",
+      "price": "$339",
+      "enquiry": "Hello, I'm interested in the DevOps Engineering course. Could you provide more details about the course duration, tools and technologies covered (e.g., Docker, Kubernetes, Jenkins, etc.), and the level of hands-on labs involved? Additionally, are there any prerequisites or certifications recommended before starting this course? I’m also curious about career support after completing the course.\n",
+      "status": "Pending"
+    },
+    {
+      "id": "20c4",
+      "name": "tyson",
+      "email": "tyson@gmail.com",
+      "phone": "7868955968",
+      "course": "PROMPT ENGINEERING",
+      "price": "$589",
+      "enquiry": "Hello, I'm interested in the Prompt Engineering course. Could you provide more details about the course duration, the techniques and tools covered (e.g., GPT, BERT, AI model fine-tuning, etc.), and the level of hands-on labs involved? Additionally, are there any prerequisites or foundational knowledge recommended before starting this course? I\n",
+      "status": "Approved"
+    },
+    {
+      "id": "6785",
+      "name": "Tommy",
+      "email": "tommy@gmail.com",
+      "phone": "6235958659",
+      "course": "DATA SCIENCE",
+      "price": "$99",
+      "enquiry": "Good day, I'm looking for information on the Web Development course. Could you provide details on the technologies and programming languages taught in the course? I'm hoping to focus on front-end development but would also like to know if back-end topics are covered. Thanks!"
+    },
+    {
+      "id": "ea26",
+      "name": "Arnold",
+      "email": "arnold@gmail.com",
+      "phone": "7898456532",
+      "course": "DIGITAL MARKETING",
+      "price": "$239",
+      "enquiry": "\".........Good day, I'm looking for information on the Digital Marketing course. Could you provide details on the topics covered, such as SEO, social media marketing, content marketing, and email campaigns? I'm particularly interested in the practical aspects of these topics and whether hands-on projects are included in the curriculum. Thanks!\"",
+      "status": "Waiting"
+    },
+    {
+      "id": "b90f",
+      "name": "freveve",
+      "email": "ververvr@ee",
+      "phone": "3333333",
+      "course": "DEVOPS ENGINEERING",
+      "price": "$339",
+      "enquiry": "333333"
+    },
+    {
+      "id": "6ed0",
+      "name": "Ramees",
+      "email": "ramees@gmail.com",
+      "phone": "9846565656",
+      "course": "DEVOPS ENGINEERING",
+      "price": "$339",
+      "enquiry": "Hello, I'm interested in the DevOps Engineering course. Could you provide more details about the course duration, tools and technologies covered (e.g., Docker, Kubernetes, Jenkins, etc.), and the level of hands-on labs involved? Additionally, are there any prerequisites or certifications recommended before starting this course? I’m also curious about career support after completing the course."
+    },
+    {
+      "id": "a935",
+      "name": "Tommy",
+      "email": "tommy@gmail.com",
+      "phone": "9846268062",
+      "course": "DIGITAL MARKETING",
+      "price": "$239",
+      "enquiry": "Good day, I'm looking for information on the Digital Marketing course. Could you provide details on the topics covered, such as SEO, social media marketing, content marketing, and email campaigns? I'm particularly interested in the practical aspects of these topics and whether hands-on projects are included in the curriculum. Thanks!"
+    },
+    {
+      "id": "ab52",
+      "name": "Mike",
+      "email": "mike@gmail.com",
+      "phone": "7898654532",
+      "course": "DATA SCIENCE",
+      "price": "$99",
+      "enquiry": "Good day, I'm looking for information on the Web Development course. Could you provide details on the technologies and programming languages taught in the course? I'm hoping to focus on front-end development but would also like to know if back-end topics are covered. Thanks!"
+    },
+    {
+      "id": "dfcd",
+      "name": "Frijo",
+      "email": "frijo@gmail.com",
+      "phone": "9878654565",
+      "course": "PROMPT ENGINEERING",
+      "price": "$589",
+      "enquiry": "Hello, I'm interested in the Prompt Engineering course. Could you provide more details about the course duration, the techniques and tools covered (e.g., GPT, BERT, AI model fine-tuning, etc.), and the level of hands-on labs involved? Additionally, are there any prerequisites or foundational knowledge recommended before starting this course?\"\n    },"
+    },
+    {
+      "id": "56be",
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "phone": "6161215421",
+      "course": "APP DEVELOPMENT",
+      "price": "$449",
+      "enquiry": "Hello, I'm considering joining the App Development course. Could you let me know the start date, course structure, and if there are any live sessions? I'm a part-time student, so I want to ensure I can manage the schedule along with my work.",
+      "status": "Pending"
+    },
+    {
+      "id": "2547",
+      "name": "Ramees",
+      "email": "ramees@gmail.com",
+      "phone": "4343434343",
+      "course": "DEVOPS ENGINEERING",
+      "price": "$339",
+      "enquiry": "ererercccccc",
+      "status": "Approved"
+    },
+    {
+      "id": "face",
+      "name": "Mike",
+      "email": "mike@gmail.com",
+      "phone": "4545454545",
+      "course": "DIGITAL MARKETING",
+      "price": "$239",
+      "enquiry": "erererere",
+      "status": "Approved"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "email": "ramesh@gmail.com",
+      "password": "ramesh123"
+    },
+    {
+      "id": "2",
+      "email": "john123@gmail.com",
+      "password": "john123"
+    }
+  ]
+}

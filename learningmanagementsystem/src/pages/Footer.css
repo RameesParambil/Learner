@@ -1,0 +1,31 @@
+.footer-bottom {
+    background-color: #242933;
+}
+.footer-bottom .bottom {
+    color: #888;
+}
+.row .social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons .icons {
+    width: 34px;
+    height: 34px;
+    background-color: #0d6efd;
+    border: 1px solid #0d6efd;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    margin-left: 5px;
+    text-decoration: none;
+    transition: all 0.4s ease;
+
+}
+.social-icons .icons:hover {
+    color: #0d6efd;
+    background-color: transparent;
+    border-color: #0d6efd;
+}

@@ -1,0 +1,104 @@
+.registerdetails {
+  background-color: #f8f9fa;
+  padding: 20px;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  z-index: 2;
+}
+
+.container2 {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 100%; 
+  overflow-x: auto; 
+}
+
+.registerdetails .table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%; 
+}
+
+.registerdetails .table thead {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.registerdetails .table th, .table td {
+  padding: 12px 15px;
+  border: 1px solid #dee2e6;
+  text-align: center;
+}
+
+.registerdetails .table-hover tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.registerdetails .btn-sm {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.registerdetails .btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.registerdetails .btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+.registerdetails h2 {
+  color: #343a40;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+@media (max-width: 768px) {
+  .container2 {
+    padding: 15px;
+  }
+
+  .registerdetails .table th, .table td {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
+
+
+@media (max-width: 500px) {
+  .container2 {
+    padding: 10px;
+  }
+
+  .registerdetails .table th, .table td {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  .registerdetails h2 {
+    font-size: 18px;
+  }
+}
+
+
+@media (max-width: 576px) {
+  .container2 {
+    overflow-x: auto; 
+  }
+
+  .registerdetails .table {
+    display: block; 
+    width: 100%;
+    overflow-x: auto; 
+  }
+}
+ 
