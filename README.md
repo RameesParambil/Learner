@@ -34,3 +34,5 @@
 ![Admin](https://github.com/RameesParambil/Learner/blob/2b405e894e936ce429262e40a8d24a8b7587df02/Screenshot%202024-12-14%20002506.png)
 
 ![Registered Users](https://github.com/RameesParambil/Learner/blob/352f31928a4199c445d20a8b22c726d176276bc9/Screenshot%202024-12-14%20002524.png)
+
+![Booking Enquiry](https://github.com/RameesParambil/Learner/blob/fc4228aaf572bb393e6ec6622662d53d4d851346/Screenshot%202024-12-14%20002644.png)
