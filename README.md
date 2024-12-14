@@ -18,3 +18,5 @@
 - Modern Development: Built using React.js for scalability and performance.
 
 ![Homepage](https://github.com/RameesParambil/Learner/blob/1c8ff1d0a19cb2d1d4d46fee075b8ea76e4866d2/Screenshot%202024-12-14%20002352.png)
+
+![Course details](https://github.com/RameesParambil/Learner/blob/5c3f2f7d2a92804e6217ff6cce8dff32277fd3c0/Screenshot%202024-12-14%20001955.png)
