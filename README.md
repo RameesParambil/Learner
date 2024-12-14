@@ -28,3 +28,5 @@
 ![Login](https://github.com/RameesParambil/Learner/blob/a9c69036600b01ab4d64fe829b7061374ab6a966/Screenshot%202024-12-14%20002123.png)
 
 ![Profile page](https://github.com/RameesParambil/Learner/blob/9083844c2cd1afc3fb9d8fc660bc9c73dcb271ce/Screenshot%202024-12-14%20002245.png)
+
+![Admin](https://github.com/RameesParambil/Learner/blob/9a217ec19ebddff3720ea2201f0746ffea99309b/Screenshot%202024-12-14%20002419.png)
