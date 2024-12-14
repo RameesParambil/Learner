@@ -1,5 +1,5 @@
 # Learning Management System
-- A feature-rich web application designed to simplify online course management with a focus on user-friendliness and scalability.
+ A feature-rich web application designed to simplify online course management with a focus on user-friendliness and scalability.
 
 ## Note
 - This project is a full-stack implementation using React.js for the frontend and Python Django for the backend, with SQLite as the database. It offers both user-facing and admin-facing functionalities to streamline the learning experience.
