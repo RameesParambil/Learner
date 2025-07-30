@@ -58,7 +58,7 @@
       "image": "/images/webdevelopment.jpg",
       "price": "$349",
       "course": "WEB DEVELOPMENT",
-      "description": "Develop modern and responsive websites using HTML, CSS, JavaScript, and popular frameworks.",
+      "description": "Develop modern and responsive websites using HTML, CSS, JavaScript .",
       "details": "This comprehensive course covers front-end and back-end web development, teaching you how to create full-stack applications. You will learn about HTML, CSS, JavaScript, and frameworks like React, as well as server-side technologies such as Node.js and databases like MongoDB. By the end of the course, you will be able to develop complete web applications from scratch, showcasing your skills in a professional portfolio."
     },
     {
@@ -222,7 +222,7 @@
       "phone": "4545454545",
       "course": "DIGITAL MARKETING",
       "price": "$239",
-      "enquiry": "erererere",
+      "enquiry": "Hello ......................",
       "status": "Approved"
     }
   ],
