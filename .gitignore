@@ -1,4 +1,7 @@
-myenv/
 __pycache__/
-*.pyc
+*.py[cod]
 *.sqlite3
+.env
+myenv/
+staticfiles/
+node_modules/
