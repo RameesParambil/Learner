@@ -19,7 +19,7 @@ function Home() {
                         <div className="col-lg-7 mx-auto text-center">
                             <h5 className="text-uppercase mb-3" style={{color: "#06BBCC"}}>Best Online Courses</h5>
                             <h1 className="display-3 text-white animated slideInDown">The Best Online Learning Platform</h1>
-                            <p className="fs-5 text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr.</p>
+                            <p className="fs-5 text-white mb-4 pb-2"> Learn anytime, anywhere with our expert–designed courses built to help you grow your skills and advance your career.</p>
                             <button className="btn1 btn-primary me-3" onClick={read}>Read More</button>
                             <Link to="/course" className="btn2 btn-outline-light">Explore Courses</Link>
                         </div>

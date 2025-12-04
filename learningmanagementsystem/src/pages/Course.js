@@ -11,7 +11,7 @@ function Course() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    axios.get('http://127.0.0.1:8000/api/getcourses')
+    axios.get('http://localhost:8000/images')
     .then (response => setData(response.data))
     .catch(err => console.log(err))
   },[])
@@ -25,14 +25,14 @@ function Course() {
               {
                 data.map((course) => {
                   return(
-                    <div key={course.CourseId} className='col-lg-4 col-sm-6'>
+                    <div key={course.id} className='col-lg-4 col-sm-6'>
                       <div className='card-effect'>
-                        <img src={course.CourseImage} />
-                        <h1>{course.CoursePrice}</h1>
+                        <img src={course.image} />
+                        <h1>{course.price}</h1>
                         <hr />
-                        <h5 className='mt-4 mb-3'>{course.CourseName}</h5>
-                        <p>{course.CourseDescription}</p>
-                        <Link to={`/course-details/${course.CourseId}`} className="btn btn-primary">Enroll Now</Link>
+                        <h5 className='mt-4 mb-3'>{course.course}</h5>
+                        <p>{course.description}</p>
+                        <Link to={`/course-details/${course.id}`} className="btn btn-primary">Enroll Now</Link>
                         
                       </div>
                     </div>
